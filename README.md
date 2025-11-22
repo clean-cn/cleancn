@@ -115,7 +115,7 @@ Combine these keywords to create custom themes:
 - Borders: chunky, brutal, thin, hairline
 - Shadows: offset, poster, flat, glow
 - Effects: glass, frosted, clay, neon
-- Style: muted, vibrant, monochrome, bold
+- Style: muted, vibrant, monochrome, bold 
 
 ## Project Structure
 
